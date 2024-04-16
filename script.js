@@ -1,0 +1,1 @@
+alert("just something else rather than hello")
